@@ -1,0 +1,70 @@
+.attribution { 
+    font-size: 11px; 
+    text-align: center; 
+    color: whitesmoke;
+    margin-top: 50px;
+}
+
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
+
+body {
+    background-color: #141414;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+}
+
+img {
+    border-radius: 50%;
+    width: 90px;
+    margin-top: 30px;
+}
+
+.center {
+    width: 400px;
+    background-color: #1f1f1f;
+    border-radius: 5px;
+    margin-top: 200px;
+    margin: auto;
+    text-align: center;
+    padding-bottom: 45px;
+}
+
+h1, p {
+    color: whitesmoke;
+}
+
+#jessica {
+    margin-bottom: 4px;
+    font-size: 27px;
+}
+
+#london {
+    color:#c5f82a;
+    margin-top: 0px;
+}
+
+#avid {
+    margin: 23px;
+}
+
+button {
+    color: whitesmoke;
+    background-color:#333333;
+    font-weight: 700;
+    border-radius: 8px;
+    border: none;
+    color: white;
+    text-align: center;
+    display: block;
+    padding: 13px;
+    margin: 10px 50px;
+    cursor: pointer;
+    width: 300px;
+}
+
+button:hover {
+    background-color: #c5f82a;
+    color: black;
+}
